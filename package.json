@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ceci-core": "0.2.x",
+    "ceci-channels": "0.1.x"
+  }
+}
